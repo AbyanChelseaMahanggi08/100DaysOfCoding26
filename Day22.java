@@ -21,8 +21,8 @@ angka1 = angka2;
 angka2 = temp;
 
 System.out.println("\nSetelah ditukar : ");
-System.out.println("Angka = " + angka1);
-System.out.println("Angka = " + angka2);
+System.out.println("Angka1 = " + angka1);
+System.out.println("Angka2 = " + angka2);
 
 }
 }
