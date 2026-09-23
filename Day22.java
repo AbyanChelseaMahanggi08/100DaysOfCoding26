@@ -24,5 +24,7 @@ System.out.println("\nSetelah ditukar : ");
 System.out.println("Angka1 = " + angka1);
 System.out.println("Angka2 = " + angka2);
 
+sc.close();
+  
 }
 }
