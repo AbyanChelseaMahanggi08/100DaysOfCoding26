@@ -39,7 +39,7 @@ System.out.println("===========================");
 System.out.println("\n\n");
 int z = sc.nextInt();
 int q = sc.nextInt();
-double pi = 3.14;
+final double pi = 3.14;
 
 double hasil  = pi*z*z;
 double hasil1 = pi*q*q;
