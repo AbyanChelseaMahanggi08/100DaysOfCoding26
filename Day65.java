@@ -6,8 +6,8 @@ Scanner sc = new Scanner(System.in);
 
 int a = sc.nextInt();
 
-for (int b = 1; b <= a; b++) {
-    System.out.println("|");
+for (int i = 1; i <= a; i++) {
+    System.out.println("| | | | |");
 }
 
 sc.close();
